@@ -5,7 +5,6 @@ Black_Friday_Data_Hack
 A retail company "ABC Private Limited" wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.
 
 They want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
-Project Organization
 
 **Frame The Problem**
 Before we dive into the data and start analyzing it, it's imperative to understand how does the company expect to use and benefit from this model?

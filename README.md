@@ -1,13 +1,13 @@
 Black_Friday_Data_Hack
 ==============================
 
-####**Business Scenario**
+**Business Scenario**
 A retail company "ABC Private Limited" wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.
 
 They want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 Project Organization
 
-####**Frame The Problem**
+**Frame The Problem**
 Before we dive into the data and start analyzing it, it's imperative to understand how does the company expect to use and benefit from this model?
 We can categorize this problem as:
 
@@ -17,7 +17,7 @@ We can categorize this problem as:
 
 * **Plain batch learning**: since there is no continuous flow of data coming into our system, there is no particular need to adjust to changing data rapidly, and the data is small enough to fit in memory, so plain batch learning should work.
 
-####**Approach To Solution**
+**Approach To Solution**
 I have used the following steps to approach the best Machine Learning algorithm:
 * Step 1. Get The Data
 * Step 2. Build Features
@@ -27,8 +27,8 @@ I have used the following steps to approach the best Machine Learning algorithm:
 * Step 6. Stacking and Blending Models
 * Step 7. Evaluate Best Model on Unseen Data
 
-####**Project File Structure**
-I have used the following template (Cookie Cutter Data Science Project Template) to structure my project.
+**Project File Structure**
+I have used the Cookie Cutter Data Science Project Template to structure my project.
 
 
 

@@ -1,0 +1,11 @@
+jupyter
+ipython
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+warnings
+scikit-learn
+xgboost
+keras

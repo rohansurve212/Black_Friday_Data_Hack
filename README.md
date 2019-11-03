@@ -1,4 +1,4 @@
-Black_Friday_Data_Hack
+Black_Friday_Data_Hack (Python)
 ==============================
 
 **Business Scenario**
